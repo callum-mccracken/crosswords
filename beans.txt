@@ -32,3 +32,6 @@ flageolet
 jacobscattle
 anasazi
 yardlong
+appaloosa
+romano
+
